@@ -1,4 +1,19 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { LinktreeSite } from "./components/LinktreeSite";
+//import { Projects } from "./components/Projects";
+//import { Contact } from "./components/Contact";
+//import { Footer } from "./components/Footer";
+
+function App() {
+  return (
+    <div className="App">
+      <LinktreeSite />
+    </div>
+  );
+}
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -23,3 +38,4 @@ function App() {
 }
 
 export default App;
+*/

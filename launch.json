@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://glopezsalgado.github.io/linktree.github.io",
+            "url": "https://glopezsalgado.github.io/linktree.github.io/",
             "webRoot": "${workspaceFolder}"
         }
     ]

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/linktree.github.io/static/css/main.9d321070.css",
-    "main.js": "/linktree.github.io/static/js/main.02d16ba2.js",
+    "main.js": "/linktree.github.io/static/js/main.eced8ebb.js",
     "static/js/453.397dcdfa.chunk.js": "/linktree.github.io/static/js/453.397dcdfa.chunk.js",
     "index.html": "/linktree.github.io/index.html",
     "main.9d321070.css.map": "/linktree.github.io/static/css/main.9d321070.css.map",
-    "main.02d16ba2.js.map": "/linktree.github.io/static/js/main.02d16ba2.js.map",
+    "main.eced8ebb.js.map": "/linktree.github.io/static/js/main.eced8ebb.js.map",
     "453.397dcdfa.chunk.js.map": "/linktree.github.io/static/js/453.397dcdfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d321070.css",
-    "static/js/main.02d16ba2.js"
+    "static/js/main.eced8ebb.js"
   ]
 }

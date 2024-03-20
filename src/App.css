@@ -46,7 +46,12 @@ body {
 }
 
 /* Media query for dark mode */
-
+@media (orientation: landscape) {
+  body {
+    background-image: url('../src/assets/img/pcbHorizontal.jpg');
+    background-size: cover;
+  }
+}
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -58,7 +63,7 @@ body {
 .linktree-container {
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: center;
   justify-content: center;
   /* Horizontally center its children */
 

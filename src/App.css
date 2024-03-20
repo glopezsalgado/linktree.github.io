@@ -88,6 +88,7 @@ body {
   height: auto;
   /* Maintain aspect ratio */
   text-align: center;
+  padding-top: 10px;
 
 }
 
@@ -100,7 +101,7 @@ body {
 }
 
 .myRoles {
-  color: #ffffff !important;
+  color: #FF0196 !important;
   text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
   text-align: center;
   font-size: 16px;

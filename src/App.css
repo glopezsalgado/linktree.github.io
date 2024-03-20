@@ -45,6 +45,24 @@
   align-items: stretch;
 }
 
+.myImage {
+  width: 200px;
+  /* Set the desired width of the image */
+  height: 200px;
+  /* Set the desired height of the image */
+  border-radius: 50%;
+  /* Set border radius to 50% to create a circle */
+  overflow: hidden;
+  /* Hide the overflowing parts of the image */
+}
+
+.myImage img {
+  width: 100%;
+  /* Ensure the image fills the container */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+
 .buttonStyle {
   display: inline-block;
   padding: 10px 20px;

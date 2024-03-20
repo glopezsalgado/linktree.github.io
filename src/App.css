@@ -82,19 +82,16 @@ body {
   /* Add padding above the image */
   padding-top: 20px;
   /* Add padding above the image */
-  box-sizing: border-box;
-  /* Include padding in the total width and height */
 
 }
 
 .myImage img {
-  max-width: 100%;
+  width: 100%;
   /* Ensure the image fills the container */
-  height: auto;
+  height: 100%;
   /* Maintain aspect ratio */
   object-fit: cover;
   /* Maintain aspect ratio and cover the container */
-  padding-top: 20px;
   /* Add padding above the image */
 }
 

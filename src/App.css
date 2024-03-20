@@ -69,8 +69,6 @@ body {
   /* Set border radius to 50% to create a circle */
   overflow: hidden;
   /* Hide the overflowing parts of the image */
-  text-align: left;
-
 }
 
 .myImage img {
@@ -78,7 +76,7 @@ body {
   /* Ensure the image fills the container */
   height: auto;
   /* Maintain aspect ratio */
-  text-align: left;
+  text-align: center;
 
 }
 
@@ -94,4 +92,6 @@ body {
   /* Set width to 80% of the viewport width */
   margin: 5px auto;
   /* Center the link horizontally and add some space between links */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+
 }

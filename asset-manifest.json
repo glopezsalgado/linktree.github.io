@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/linktree.github.io/static/css/main.dc0d69ff.css",
+    "main.css": "/linktree.github.io/static/css/main.2352eb98.css",
     "main.js": "/linktree.github.io/static/js/main.4866f315.js",
     "static/js/453.397dcdfa.chunk.js": "/linktree.github.io/static/js/453.397dcdfa.chunk.js",
     "static/media/pcbHorizontal.jpg": "/linktree.github.io/static/media/pcbHorizontal.760c59965f40601112ce.jpg",
     "static/media/bpcb.jpg": "/linktree.github.io/static/media/bpcb.272828c646f65d04e78e.jpg",
     "static/media/yourcsgirliepic.jpg": "/linktree.github.io/static/media/yourcsgirliepic.4d1e4656f19160d99585.jpg",
     "index.html": "/linktree.github.io/index.html",
-    "main.dc0d69ff.css.map": "/linktree.github.io/static/css/main.dc0d69ff.css.map",
+    "main.2352eb98.css.map": "/linktree.github.io/static/css/main.2352eb98.css.map",
     "main.4866f315.js.map": "/linktree.github.io/static/js/main.4866f315.js.map",
     "453.397dcdfa.chunk.js.map": "/linktree.github.io/static/js/453.397dcdfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc0d69ff.css",
+    "static/css/main.2352eb98.css",
     "static/js/main.4866f315.js"
   ]
 }

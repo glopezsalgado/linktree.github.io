@@ -42,7 +42,6 @@
 body {
   background-image: url('../src/assets/img/pcb.jpg');
   /* Replace 'path/to/your/image.jpg' with the actual path to your image */
-  background-size: cover;
   /* Cover the entire background */
   background-position: center;
   /* Center the background image */
@@ -86,7 +85,7 @@ body {
 
 }
 
-h1 {
+.IGat {
   color: #FF0196;
   text-align: center;
 }

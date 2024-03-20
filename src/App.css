@@ -96,13 +96,15 @@ body {
   text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
   /* Adjust the values and colors as needed */
   text-align: center;
+  font-size: 36px;
 }
 
-h2 {
-  color: #ffffff;
+.myRoles {
+  color: #ffffff !important;
   text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
 
   text-align: center;
+  font-size: 24px;
 }
 
 

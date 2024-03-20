@@ -71,29 +71,25 @@ body {
 
 .myImage {
   width: 200px;
-  /* Set the desired width of the image */
+  /* Set the desired width of the image container */
   height: 200px;
-  /* Set the desired height of the image */
+  /* Set the desired height of the image container */
   border-radius: 50%;
   /* Set border radius to 50% to create a circle */
   overflow: hidden;
   /* Hide the overflowing parts of the image */
   text-align: center;
   padding-top: 20px;
-
+  /* Add padding above the image */
 }
 
 .myImage img {
   width: 100%;
   /* Ensure the image fills the container */
-  height: 100%;
+  height: auto;
   /* Maintain aspect ratio */
-  text-align: center;
-  padding-top: 20px;
   object-fit: cover;
   /* Maintain aspect ratio and cover the container */
-
-
 }
 
 .IGat {

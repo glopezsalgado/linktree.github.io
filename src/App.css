@@ -69,6 +69,8 @@ body {
   /* Set border radius to 50% to create a circle */
   overflow: hidden;
   /* Hide the overflowing parts of the image */
+  text-align: left;
+
 }
 
 .myImage img {

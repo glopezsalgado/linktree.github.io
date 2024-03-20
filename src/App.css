@@ -86,10 +86,13 @@ body {
 .myImage img {
   width: 100%;
   /* Ensure the image fills the container */
-  height: auto;
+  height: 100%;
   /* Maintain aspect ratio */
   text-align: center;
   padding-top: 20px;
+  object-fit: cover;
+  /* Maintain aspect ratio and cover the container */
+
 
 }
 

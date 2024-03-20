@@ -39,6 +39,21 @@
 }
 
 /* LINIKTREE SITE */
+body {
+  background-color: white;
+  /* Default background color */
+}
+
+/* Media query for dark mode */
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #101415;
+    /* Pink background color when dark mode is enabled */
+  }
+}
+
 .linktree-container {
   display: flex;
   flex-direction: column;
@@ -61,6 +76,8 @@
   /* Ensure the image fills the container */
   height: auto;
   /* Maintain aspect ratio */
+  text-align: left;
+
 }
 
 .buttonStyle {

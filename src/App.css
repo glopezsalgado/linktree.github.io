@@ -41,12 +41,8 @@
 /* LINIKTREE SITE */
 body {
   background-image: url('../src/assets/img/pcb.jpg');
-  /* Replace 'path/to/your/image.jpg' with the actual path to your image */
-  /* Cover the entire background */
+  background-size: cover;
   background-position: center;
-  /* Center the background image */
-  /* background-color: white; */
-  /* Default background color */
 }
 
 /* Media query for dark mode */
@@ -63,6 +59,9 @@ body {
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  justify-content: center;
+  /* Horizontally center its children */
+
 }
 
 .myImage {
@@ -89,7 +88,7 @@ body {
 
 .IGat {
   color: #FF0196;
-  text-shadow: 0 0 10px #fff, 0 0 20px #ff0, 0 0 30px #f0f;
+  text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
   /* Adjust the values and colors as needed */
   text-align: center;
 }

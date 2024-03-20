@@ -74,6 +74,8 @@ body {
   /* Set border radius to 50% to create a circle */
   overflow: hidden;
   /* Hide the overflowing parts of the image */
+  text-align: center;
+
 }
 
 .myImage img {
@@ -87,6 +89,8 @@ body {
 
 .IGat {
   color: #FF0196;
+  text-shadow: 0 0 10px #fff, 0 0 20px #ff0, 0 0 30px #f0f;
+  /* Adjust the values and colors as needed */
   text-align: center;
 }
 

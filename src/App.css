@@ -79,7 +79,7 @@ body {
   overflow: hidden;
   /* Hide the overflowing parts of the image */
   text-align: center;
-  padding-top: 10px;
+  padding-top: 20px;
 
 }
 
@@ -89,7 +89,7 @@ body {
   height: auto;
   /* Maintain aspect ratio */
   text-align: center;
-  padding-top: 10px;
+  padding-top: 20px;
 
 }
 

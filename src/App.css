@@ -48,7 +48,7 @@ body {
 /* Media query for dark mode */
 @media (orientation: landscape) {
   body {
-    background-image: url('../src/assets/img/pcbHorizontal.jpg');
+    background-image: url('../src/assets/img/bpcbHorizontal.jpg');
     background-size: cover;
   }
 }
@@ -92,7 +92,7 @@ body {
 }
 
 .IGat {
-  color: #FF0196;
+  color: #ffffff !important;
   text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
   /* Adjust the values and colors as needed */
   text-align: center;
@@ -102,9 +102,8 @@ body {
 .myRoles {
   color: #ffffff !important;
   text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
-
   text-align: center;
-  font-size: 24px;
+  font-size: 16px;
 }
 
 
@@ -121,7 +120,7 @@ body {
   margin: 5px auto;
   /* Center the link horizontally and add some space between links */
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-  font-size: 16px;
+  font-size: 14px;
   /* Set the font size to 16 pixels */
 
 

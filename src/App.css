@@ -40,7 +40,7 @@
 
 /* LINIKTREE SITE */
 body {
-  background-image: url('../src/assets/img/pcb.jpg');
+  background-image: url('../src/assets/img/bpcb.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -99,6 +99,9 @@ body {
 }
 
 h2 {
+  color: #ffffff;
+  text-shadow: 0 0 10px #FF0196, 0 0 20px #FF0196, 0 0 30px #FF0196;
+
   text-align: center;
 }
 

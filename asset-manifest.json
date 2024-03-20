@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/linktree.github.io/static/css/main.01f1c684.css",
+    "main.css": "/linktree.github.io/static/css/main.8bd45cb1.css",
     "main.js": "/linktree.github.io/static/js/main.4866f315.js",
     "static/js/453.397dcdfa.chunk.js": "/linktree.github.io/static/js/453.397dcdfa.chunk.js",
     "static/media/bpcbHorizontal.jpg": "/linktree.github.io/static/media/bpcbHorizontal.db0f75acf9d3319d4e3c.jpg",
     "static/media/bpcb.jpg": "/linktree.github.io/static/media/bpcb.272828c646f65d04e78e.jpg",
     "static/media/yourcsgirliepic.jpg": "/linktree.github.io/static/media/yourcsgirliepic.4d1e4656f19160d99585.jpg",
     "index.html": "/linktree.github.io/index.html",
-    "main.01f1c684.css.map": "/linktree.github.io/static/css/main.01f1c684.css.map",
+    "main.8bd45cb1.css.map": "/linktree.github.io/static/css/main.8bd45cb1.css.map",
     "main.4866f315.js.map": "/linktree.github.io/static/js/main.4866f315.js.map",
     "453.397dcdfa.chunk.js.map": "/linktree.github.io/static/js/453.397dcdfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01f1c684.css",
+    "static/css/main.8bd45cb1.css",
     "static/js/main.4866f315.js"
   ]
 }

@@ -82,7 +82,13 @@ body {
 
 h1 {
   color: #FF0196;
+  text-align: center;
 }
+
+h2 {
+  text-align: center;
+}
+
 
 .buttonStyle {
   display: inline-block;

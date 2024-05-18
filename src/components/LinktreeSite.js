@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 //
-import profilePic from '../assets/img/yourcsgirliepic.jpg';
+import profilepic2 from '../assets/img/yourcsgirliepic.jpg';
 
 
 export const LinktreeSite = () => {

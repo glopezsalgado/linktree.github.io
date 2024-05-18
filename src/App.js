@@ -9,3 +9,5 @@ function App() {
     </div>
   );
 }
+
+export default App; // Add this line to export App as default
